@@ -1,0 +1,23 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danteocualesjr/Hello-World-Smart-Contract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danteocualesjr/Hello-World-Smart-Contract/issues"
+  },
+  "homepage": "https://github.com/danteocualesjr/Hello-World-Smart-Contract#readme",
+  "devDependencies": {
+    "hardhat": "^2.8.0"
+  }
+}
