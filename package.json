@@ -19,5 +19,8 @@
   "homepage": "https://github.com/danteocualesjr/Hello-World-Smart-Contract#readme",
   "devDependencies": {
     "hardhat": "^2.8.0"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
   }
 }
