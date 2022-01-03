@@ -8,7 +8,7 @@ const contract = require("../artifacts/contracts/HelloWorld.sol/HelloWorld.json"
 // Provider
 const alchemyProvider = new ethers.providers.AlchemyProvider(network="ropsten", API_KEY);
 
-// Signer
+// Signer - you
 const signer = new ethers.Wallet(PRIVATE_KEY, alchemyProvider);
 
 // Contract
