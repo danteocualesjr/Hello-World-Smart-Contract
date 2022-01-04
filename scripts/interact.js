@@ -25,5 +25,4 @@ async function main() {
     const newMessage = await helloWorldContract.message();
     console.log('The new message is: ' + newMessage);
 }
-
 main();
