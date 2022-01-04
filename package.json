@@ -19,6 +19,7 @@
   "homepage": "https://github.com/danteocualesjr/Hello-World-Smart-Contract#readme",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.3",
+    "@nomiclabs/hardhat-etherscan": "^2.1.8",
     "ethers": "^5.5.2",
     "hardhat": "^2.8.0"
   },
